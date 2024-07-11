@@ -1,4 +1,4 @@
-## Hey 👋, I'm Qo`dosheva Dilbar!  
+## Hey 👋, I'm Qo`ldosheva Dilbar!  
   
 
 
