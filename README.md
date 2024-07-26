@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Qo`ldosheva Dilbar!  
   
-
+<hr>
 
 <a href="https://github.com/dilbarqoldosheva" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -28,9 +28,7 @@ I am a collaborative person but sometimes I get nervous and self-conscious in so
 - CMS such as Strapi and Sanity
 
 
-<a href="https://github.com/dilbarqoldosheva" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 
 
 <picture>
